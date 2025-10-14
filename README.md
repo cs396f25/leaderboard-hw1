@@ -1,4 +1,4 @@
-# Results at 2025 Oct 14 11:26 CDT
+# Results at 2025 Oct 14 12:01 CDT
 | Pseudonym | Model | Commit | M1 (↓) | M2 (↓) | M3 (↓) | M4 (↑) | M5 (↑)|
 |--- | --- | --- | --- | --- | --- | --- | ---|
 |zach | example1 | abcd1234 | 0.000 | 0.061 | 0.000 | 1.000 | 1.000|
@@ -15,3 +15,4 @@
 |heloo123 | my_model | 413dc9e4 | 0.029 | 0.092 | 0.059 | 0.794 | 0.494|
 |babysaja | logistic | fad2ab23 | 0.032 | 0.050 | 0.061 | 0.812 | 0.381|
 |mangofizz | sillymodel0 | 21f69ac8 | 0.000 | 0.000 | 0.774 | 0.774 | 0.000|
+|mangofizz | sillymodel1 | cfe073b3 | 0.000 | 0.000 | 0.774 | 0.226 | 0.369|
