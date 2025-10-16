@@ -1,4 +1,4 @@
-# Results at 2025 Oct 16 13:43 CDT
+# Results at 2025 Oct 16 14:03 CDT
 | Pseudonym | Model | Commit | M1 (↓) | M2 (↓) | M3 (↓) | M4 (↑) | M5 (↑)|
 |--- | --- | --- | --- | --- | --- | --- | ---|
 |zach | example1 | abcd1234 | 0.000 | 0.061 | 0.000 | 1.000 | 1.000|
@@ -65,3 +65,4 @@
 |cjw | simplelogistic | c549fc5e | nan | nan | nan | nan | nan|
 |lxi | model | ba3155e4 | 0.053 | 0.024 | 0.021 | 0.782 | 0.279|
 |heloo123 | my_model | 5da6f6ec | 0.034 | 0.039 | 0.006 | 0.801 | 0.348|
+|babysaja | logistic_9 | 2d520d94 | 0.023 | 0.044 | 0.057 | 0.809 | 0.340|
