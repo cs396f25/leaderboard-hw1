@@ -1,4 +1,4 @@
-# Results at 2025 Oct 17 12:04 CDT
+# Results at 2025 Oct 17 17:04 CDT
 | Pseudonym | Model | Commit | M1 (↓) | M2 (↓) | M3 (↓) | M4 (↑) | M5 (↑)|
 |--- | --- | --- | --- | --- | --- | --- | ---|
 |zach | example1 | abcd1234 | 0.000 | 0.061 | 0.000 | 1.000 | 1.000|
@@ -78,3 +78,5 @@
 |frfr | logistic_regression | 6b56f0aa | 0.060 | 0.043 | 0.051 | 0.807 | 0.299|
 |frfr | mlp_2 | 8d9e74b6 | 0.062 | 0.070 | 0.021 | 0.815 | 0.427|
 |babysaja | logistic_2 | dffd6220 | 0.005 | 0.007 | 0.230 | 0.770 | 0.006|
+|egjt | simple_model | 64b53da8 | 0.051 | 0.186 | 0.066 | 0.704 | 0.421|
+|daisy | hybrid_model | fddb5a6b | 0.033 | 0.106 | 0.010 | 0.776 | 0.500|
