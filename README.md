@@ -1,4 +1,4 @@
-# Results at 2025 Oct 17 19:04 CDT
+# Results at 2025 Oct 17 20:04 CDT
 | Pseudonym | Model | Commit | M1 (↓) | M2 (↓) | M3 (↓) | M4 (↑) | M5 (↑)|
 |--- | --- | --- | --- | --- | --- | --- | ---|
 |zach | example1 | abcd1234 | 0.000 | 0.061 | 0.000 | 1.000 | 1.000|
@@ -83,3 +83,5 @@
 |daisy | hybrid_model | ed7b3016 | 0.011 | 0.087 | 0.013 | 0.788 | 0.499|
 |egjt | simpleb | 07fca38a | 0.029 | 0.069 | 0.007 | 0.816 | 0.425|
 |daisy | my_model | 441ca2ab | 0.039 | 0.054 | 0.017 | 0.812 | 0.403|
+|egjt | gbt_model | 98b7b6e6 | 0.001 | 0.002 | 0.009 | 0.774 | 0.004|
+|daisy | hybrid_model | 2ea7cbbc | 0.011 | 0.087 | 0.013 | 0.788 | 0.499|
