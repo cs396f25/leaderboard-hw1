@@ -1,4 +1,4 @@
-# Results at 2025 Oct 18 13:04 CDT
+# Results at 2025 Oct 18 15:05 CDT
 | Pseudonym | Model | Commit | M1 (↓) | M2 (↓) | M3 (↓) | M4 (↑) | M5 (↑)|
 |--- | --- | --- | --- | --- | --- | --- | ---|
 |zach | example1 | abcd1234 | 0.000 | 0.061 | 0.000 | 1.000 | 1.000|
@@ -89,3 +89,4 @@
 |zhuzhu | example_2 | 62e7f79c | 0.000 | 0.000 | 0.077 | 0.774 | 0.000|
 |zhuzhu | example_3 | 0b57ef10 | 0.038 | 0.197 | 0.039 | 0.651 | 0.359|
 |woooooooooo | rf_model | f0fb5e11 | 0.041 | 0.085 | 0.043 | 0.784 | 0.494|
+|woooooooooo | fairnn | c68bf3cd | 0.028 | 0.063 | 0.018 | 0.816 | 0.429|
